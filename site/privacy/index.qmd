@@ -1,0 +1,17 @@
+---
+title: "Privacy"
+---
+
+<!-- DRAFT: Tom to review -->
+This site does not set cookies and does not use analytics or advertising
+trackers.
+
+The site is hosted by [Netlify](https://www.netlify.com/privacy/), which
+processes standard request information, such as IP addresses, in order to
+deliver pages.
+
+Search on this site runs in your browser. Your search terms are not sent
+anywhere.
+
+This page will be updated before any feature that collects information, such
+as a contact form, feedback buttons, comments or a newsletter, is added.

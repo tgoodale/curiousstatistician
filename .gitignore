@@ -1,0 +1,25 @@
+# Build output (combined site)
+_site/
+
+# Quarto
+.quarto/
+**/*.quarto_ipynb
+
+# R / renv
+renv/library/
+renv/staging/
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+.venv/
+__pycache__/
+
+# Machine-local Claude Code notes
+CLAUDE.local.md
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store

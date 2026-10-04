@@ -1,0 +1,8 @@
+# Accessibility profile: quarto preview site --profile a11y
+# Runs axe-core in each page and shows WCAG 2.2 AA violations in the page itself.
+# Never used for the deployed build.
+format:
+  html:
+    axe:
+      output: document
+      standard: wcag22aa

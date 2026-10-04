@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+
+// Placeholder identity: change these few variables to restyle every project.
+$primary: #1f5f8b;
+$body-color: #212529;
+$link-color: $primary;
+$navbar-bg: $primary;
+$navbar-fg: #ffffff;
+$footer-bg: #f5f6f8;
+
+/*-- scss:rules --*/
+
+// Wide tables and code scroll inside their own container, never the page.
+.cell-output-display,
+.table-responsive {
+  overflow-x: auto;
+}

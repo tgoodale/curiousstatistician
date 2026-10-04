@@ -1,0 +1,24 @@
+---
+title: "Accessibility"
+---
+
+<!-- DRAFT: Tom to review -->
+## Target
+
+This site aims to meet the
+[Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
+at level AA, including its interactive apps, slides, courses and downloads.
+Pages should work from narrow phone screens to large desktops, with a keyboard
+alone, and in light and dark themes.
+
+## Known issues
+
+The site is still being built and has not yet been fully tested. Known issues
+will be listed here.
+
+## Reporting a problem
+
+If something on this site is hard to use or doesn't work with the technology
+you use, please
+[open an issue on GitHub](https://github.com/tgoodale/curiousstatistician/issues).
+A contact form will be added soon.

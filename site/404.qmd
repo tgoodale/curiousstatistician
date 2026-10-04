@@ -1,0 +1,12 @@
+---
+title: "Page not found"
+toc: false
+---
+
+Sorry, there's no page at this address. It may have moved, or the link may
+have a typo.
+
+- Go to the [home page](/)
+- Browse the [guides](/guides/)
+- Use the search in the navigation bar
+- [Report a broken link on GitHub](https://github.com/tgoodale/curiousstatistician/issues)

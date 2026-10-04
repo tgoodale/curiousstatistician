@@ -1,0 +1,7 @@
+Type: project
+Description: R packages used to render curiousstatistician.com. renv records
+    exactly these packages and their dependencies in renv.lock (explicit
+    snapshot mode). Add a package here, then run renv::snapshot().
+Imports:
+    knitr,
+    rmarkdown

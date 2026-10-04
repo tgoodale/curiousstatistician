@@ -1,0 +1,49 @@
+---
+title: "Licence"
+---
+
+<!-- DRAFT: Tom to review -->
+You are welcome to reuse material from this site. What you can do depends on
+the kind of material.
+
+## Written content: CC BY 4.0
+
+Guides, blog posts, slides, courses, the glossary and other text, with their
+figures, are licensed under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You can copy, share and adapt them for any purpose, including commercial use,
+as long as you credit the author, link to the source and say if you made
+changes. For example:
+
+> "Page title" by Tom Goodale, curiousstatistician.com, licensed under CC BY 4.0.
+
+## Code examples and example datasets: CC0
+
+Code examples shown in pages, the example datasets and the scripts that create
+them are dedicated to the public domain under
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Use them however
+you like, in your own analyses, teaching or software, with no need to credit
+anyone.
+
+## Apps and build scripts: MIT
+
+The interactive apps, their code modules and the scripts that build this site
+are released under the
+[MIT licence](https://github.com/tgoodale/curiousstatistician/blob/main/LICENSE).
+You can reuse and adapt the code if you keep the copyright and licence notice.
+
+## Books
+
+Each book on this site states its own licence. Where it does, that licence
+applies to that book.
+
+## Material from other people
+
+Some pages include material created by other people. That material keeps its
+own licence, which is credited beside it.
+
+## Source files
+
+The licence files are in the
+[site's GitHub repository](https://github.com/tgoodale/curiousstatistician).

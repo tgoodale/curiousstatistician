@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: ../_site
+  pre-render: ../scripts/clean-site.ts
+  resources:
+    - _headers
+    - _redirects
+
+metadata-files:
+  - ../shared/navbar.yml
+  - ../shared/footer.yml
+
+website:
+  site-url: https://curiousstatistician.com
+  description: "Guides, courses and interactive apps for anyone learning or using statistics."
+  repo-url: https://github.com/tgoodale/curiousstatistician
+  image: /images/share-card.png
+  image-alt: "Curious Statistician, curiousstatistician.com"
+  open-graph: true
+  twitter-card: true
+
+lang: en-GB
+
+format:
+  html:
+    theme:
+      - default
+      - ../shared/theme.scss
+    include-in-header: ../shared/head.html
+    toc: true
+
+execute:
+  freeze: auto

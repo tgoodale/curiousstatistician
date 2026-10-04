@@ -1,0 +1,11 @@
+# Shared footer for every project. Root-relative links so they work from any project.
+website:
+  page-footer:
+    left: "© 2026 Tom Goodale · [Licences: CC BY 4.0, MIT and CC0](/licence/)"
+    right:
+      - text: "Contact"
+        href: /contact/
+      - text: "Privacy"
+        href: /privacy/
+      - text: "Accessibility"
+        href: /accessibility/

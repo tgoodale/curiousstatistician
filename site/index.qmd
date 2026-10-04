@@ -1,0 +1,10 @@
+---
+title: "Curious Statistician"
+toc: false
+---
+
+<!-- DRAFT: Tom to review -->
+Clear, practical guides to statistical tests and ideas, open courses and
+workshop materials, and interactive apps for exploring how statistics behaves,
+for anyone learning or using statistics. This site is being built: guides,
+courses and the blog will appear here soon.

@@ -1,0 +1,5 @@
+---
+title: "Apps"
+---
+
+Interactive apps for exploring statistical ideas are coming soon.

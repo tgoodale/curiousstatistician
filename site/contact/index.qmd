@@ -1,0 +1,6 @@
+---
+title: "Contact"
+---
+
+A contact form is coming soon. In the meantime, you can report a problem with
+the site by [opening an issue on GitHub](https://github.com/tgoodale/curiousstatistician/issues).

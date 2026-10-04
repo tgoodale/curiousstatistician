@@ -1,0 +1,3 @@
+# Netlify redirects. Copied to the root of _site/ by Quarto (see resources in _quarto.yml).
+# Every changed URL gets a 301 here, in the same commit as the change.
+# Talk aliases (e.g. /ukcots27) also live here and are permanent once used.

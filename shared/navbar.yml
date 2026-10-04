@@ -1,0 +1,19 @@
+# Shared navigation for every project (site, courses, books).
+# Links are root-relative so they work from any project in the combined _site/.
+website:
+  title: "Curious Statistician"
+  search: true
+  navbar:
+    left:
+      - text: "Guides"
+        href: /guides/
+      - text: "Courses & Workshops"
+        href: /teaching/
+      - text: "Apps"
+        href: /apps/
+      - text: "Blog"
+        href: /blog/
+      - text: "Talks"
+        href: /talks/
+      - text: "About"
+        href: /about/

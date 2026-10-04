@@ -1,0 +1,7 @@
+# Netlify headers. Copied to the root of _site/ by Quarto (see resources in _quarto.yml).
+# Pre-launch: keep the whole site out of search engines until Tom confirms the
+# launch checklist. Remove the X-Robots-Tag line only in the approved launch commit.
+/*
+  X-Robots-Tag: noindex
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
